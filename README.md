@@ -1,25 +1,24 @@
 ### Welcome 👋
 
----
+I'm Tristan, a Computer Science student at the University of Waterloo. I'm currently looking for an internship for Fall 2022 and previously interned at WSIB Innovation Lab as a Full Stack Developer and at Hop In Microntransit Technologies as a Full Stack Developer.
 
-🎓 Computer Science student at the University of Waterloo
 
-⚽️ Avid player and EPL watcher
+👀 Interested in ML/AI and Data Science
 
-🔭 Currently working @ WSIB Innovation Labs
+--- 
+### Apart from developing...
 
-📜 Previously worked @ Hopin Microtransit
+⚽️ Avid competitive player and EPL watcher
+
+🏐 Casual player
+
+🏋️ Staying active
 
 🎮 Former Waterloo Esports Overwatch team player, find me climbing the ranks in Valorant
 
 🎧 Listening to Spotify wherever I go
 
 ⌨️ Mechanical Keyboard enthusiast
-
-- KBD67
-- CB:87 Sakabato
-- Ellora65
-- Paragon75
 
 
 
