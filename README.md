@@ -9,7 +9,7 @@ I'm Tristan, a Computer Science student at the University of Waterloo. I'm curre
 ### Apart from developing...
 ✈️ I love travelling around the world, and have an exchange to Hong Kong scheduled for Winter 2023!
 
-⚽️ Avid competitive player and EPL watcher
+⚽️ Competitive player and EPL watcher
 
 🏐 Casual player
 
