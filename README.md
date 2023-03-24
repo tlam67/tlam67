@@ -1,13 +1,13 @@
 ### Welcome 👋
 
-I'm Tristan, a Computer Science student at the University of Waterloo. I'm currently looking for an internship for Summer 2023. Right now I'm working at Arcturus as a Full Stack Developer on an Embedded Machine Vision project, and have previously interned at WSIB Innovation Lab as a Full Stack Developer and at Hop In Microntransit Technologies as a Full Stack Developer.
+I'm Tristan, a Computer Science student at the University of Waterloo. I'm currently looking for an internship for Winter 2024. Right now I'm on an international exchange at the University of Hong Kong. In the summer, I will be working at Plenty of Fish as a Machine Learning Engineer! Previously I have interned at Arcturus, WSIB Innovation Lab, and Hop In as a Software Engineer.
 
 
 👀 Interested in ML/AI and Data Science
 
 --- 
 ### Apart from developing...
-✈️ I love travelling around the world, and have an exchange to Hong Kong scheduled for Winter 2023!
+✈️ I love travelling around the world, currently on exchange @ Hong Kong and traveling Asia!
 
 ⚽️ Competitive player and EPL watcher
 
