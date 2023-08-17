@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-I'm Tristan, a Computer Science student at the University of Waterloo. I'm currently looking for an internship for Winter 2024. Right now I'm on an international exchange at the University of Hong Kong. In the summer, I will be working at Plenty of Fish as a Machine Learning Engineer! Previously I have interned at Arcturus, WSIB Innovation Lab, and Hop In as a Software Engineer.
+I'm Tristan, a Computer Science student at the University of Waterloo. I'm currently looking for an internship for Winter 2024. Previously I have worked at Plenty of Fish as a Machine Learning Engineer, and at Arcturus, WSIB Innovation Lab, and Hop In as a Software Engineer.
 
 
 👀 Interested in ML/AI and Data Science
