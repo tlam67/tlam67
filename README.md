@@ -7,7 +7,7 @@ I'm Tristan, a Computer Science student at the University of Waterloo. I'm curre
 
 --- 
 ### Apart from developing...
-✈️ I love travelling around the world, previously on exchange @ Hong Kong
+✈️ I love travelling around the world, previously on exchange @ The University of Hong Kong
 
 ⚽️ Competitive player and EPL watcher
 
