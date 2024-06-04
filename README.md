@@ -1,19 +1,17 @@
 ### Welcome 👋
 
-I'm Tristan, a Computer Science student at the University of Waterloo. I'm currently looking for an internship for Winter 2024. Previously I have worked at Plenty of Fish as a Machine Learning Engineer, and at Arcturus, WSIB Innovation Lab, and Hop In as a Software Engineer.
+I'm Tristan, a Computer Science student at the University of Waterloo. I'm currently looking for new grad opportunities starting in 2025. I am currently working as an SDE Intern at Amazon, on the DynamoDB Storage Node Performance team! Previously I have worked at Plenty of Fish as a Machine Learning Engineer Intern, and at Arcturus, WSIB Innovation Lab, and Hop In as a Software Engineer Intern.
 
 
-👀 Interested in ML/AI and Data Science
+👀 Interested in Backend Development, ML/AI and Data Science
 
 --- 
 ### Apart from developing...
 ✈️ I love travelling around the world, previously on exchange @ The University of Hong Kong
 
-⚽️ Competitive player and EPL watcher
+⚽️ Competitive football/soccer player 
 
 🏐 Casual player
-
-🏋️ Staying active
 
 🎮 Former Waterloo Esports Overwatch team player, find me climbing the ranks in Valorant
 
